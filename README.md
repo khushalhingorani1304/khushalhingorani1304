@@ -51,7 +51,7 @@
 
 <a href="https://www.linkedin.com/in/khushal-hingorani-64a459267/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
 <a href="https://www.instagram.com/khushal13._/">![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a/>
-<a href="[https://twitter.com/shail020604](https://twitter.com/khushalHin10991)">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
+<a href="https://x.com/khushalHin10991">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)<a/>
 
 
 [Visual Studio Code]: https://code.visualstudio.com/download
