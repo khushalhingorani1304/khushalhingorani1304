@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @khushalhingorani1304
 - 👀 I’m interested in projects
-- 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on projects
 - 📫 Mail me on khushalhingorani1304@gmail.com
 
